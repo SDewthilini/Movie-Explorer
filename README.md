@@ -6,8 +6,8 @@
 ![React](https://img.shields.io/badge/React-Create%20React%20App-149eca)
 ![Data](https://img.shields.io/badge/data-TMDb-01b4e4)
 
-**Live demo:** deploy to Vercel or Netlify and add the URL here  
-**GitLab repository:** push this project to GitLab and add the URL here
+**Live demo:** https://movie-explorer-chi-umber.vercel.app/
+
 
 ## Product vision
 
