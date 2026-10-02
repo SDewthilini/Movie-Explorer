@@ -156,6 +156,3 @@ Image URLs use the image base and size documented by TMDb plus each result's `po
 - [ ] GitLab contains no committed secret; deployment environment is configured.
 - [ ] Deep links work on the deployed site; README includes screenshots and live/repo links.
 
-## Source brief
-
-This project incorporates the supplied four-page `Movie_Explorer_Project_Specification.pdf` and the requirements pasted with the assignment. It includes the required features and the specification's suggested UI polish, performance, accessibility, folder structure, and README showcase ideas.
